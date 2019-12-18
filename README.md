@@ -1,2 +1,2 @@
 # Implementation-from-skratch
-This folder contains some interesting implementations in various topics in Computer Science
+This folder contains some interesting implementations from scratchin various of some machine learning algorithms.
